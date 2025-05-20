@@ -39,7 +39,7 @@ coordinator_agent = create_supervisor(
     model=gemini_model,
     prompt=(
         "Du bist ein Koordinator-Agent, der zwei spezialisierte Agenten verwaltet:\n"
-        "- web_agent für Nachrichten und aktuelle Informationen\n"
+        "- web_agent für Nachrichten und aktuelle Informationen und stock prices and financial news, schlusskurs\n"
         "- analytics_agent für Analyse, Prognosen und Finanzbewertung\n"
         "\n"
         "Wähle den passenden Agenten basierend auf der Nutzerfrage.\n"
