@@ -1,0 +1,381 @@
+📝 Frag etwas zum Markt,🤖 Antwort der Agenten,timestamp
+what are the news for Nvidia?,"🔹 None:
+what are the news for Nvidia?
+
+🔹 transfer_to_web_agent:
+Successfully transferred to web_agent
+
+🔹 get_company_news:
+📊 Daten für Nvidia (NVDA)
+
+🔎 Aktuelle Nachrichten via NewsAPI:
+- Nvidia plans larger Taiwan office and local supercomputer collaboration, CEO Huang says
+ In his keynote speech at Computex in Taipei, Jensen Huang said Nvidia secured a lease for a new property and is partnering with local firms, including Foxconn.
+ (Biztoc.com)
+ https://biztoc.com/x/c1fd18453d7eb969
+
+- Nvidia Reportedly Aiming to Expand AI Business Beyond ‘Hyperscalers’
+ Chipmaker Nvidia is reportedly working to lessen its dependency on Big Tech.
+The company is doing this by forging new partnerships to sell artificial intelligence (AI) to national governments, corporations and challengers to companies like Google, Amazon and …
+ (Biztoc.com)
+ https://biztoc.com/x/67b3ecae59d34d5d
+
+- Nvidia announces new tech to keep it at the center of AI development
+ Nvidia CEO Jensen Huang made a slew of announcements and revealed new products on Monday, aiming to sustain its leadership in AI computing.
+ (Biztoc.com)
+ https://biztoc.com/x/c870830915473689
+
+- Microsoft hosts developer conference as focus grows on AI profits
+ SEATTLE :Microsoft hosts its annual software developer conference in Seattle on Monday, drawing thousands of coders looking to turn the past years of investments into artificial intelligence into profitable products and services for consumers and businesses.T…
+ (CNA)
+ https://www.channelnewsasia.com/business/microsoft-hosts-developer-conference-focus-grows-ai-profits-5139446
+
+- Nvidia announces new tech to keep it at the center of AI development
+ Nvidia CEO Jensen Huang made a slew of announcements and revealed new products on Monday, aiming to sustain its leadership in AI computing.
+ (CNBC)
+ https://www.cnbc.com/2025/05/19/nvidia-announces-new-tech-to-keep-it-at-the-center-of-ai-development-.html
+
+
+🌍 Tavily (mit Datum):
+[Tavily] Nvidia - Wikipedia
+📆 kein Datum angegeben
+https://en.wikipedia.org/wiki/Nvidia
+Nvidia Corporation[a] (/ɛnˈvɪdiə/ en-VID-ee-ə) is an American multinational corporation and technology company headquartered in Santa Clara, California, and incorporated in Delaware.[5] Founded in 1993 by Jensen Huang (president and CEO), Chris Malachowsky, and Curtis Priem, it designs and supplies graphics processing units (GPUs), application programming interfaces (APIs) for data science and high-performance computing, and system on a chip units (SoCs) for mobile computing and the automotive market. In addition to GPU design and outsourcing manufacturing, Nvidia provides the CUDA software platform and API that allows the creation of massively parallel programs which utilize GPUs.[11][12] They are deployed in supercomputing sites around the world.[13][14] In the late 2000s, Nvidia had moved into the mobile computing market, where it produced Tegra mobile processors for smartphones and tablets and vehicle navigation and entertainment systems.[15][16][17] Its competitors include AMD, Intel,[18] Qualcomm,[19] and AI accelerator companies such as Cerebras and Graphcore.
+[Tavily] Nvidia - Official Site
+📆 kein Datum angegeben
+http://www.nvidia.com/page/home.html
+Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutions Discover NVIDIA’s HPC solutions for AI, simulation, and accelerated computing Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutions Discover NVIDIA’s HPC solutions for AI, simulation, and accelerated computing The development of physical-AI-embodied systems such as robots and autonomous vehicles is accelerated with the new NVIDIA Cosmos™ platform. The development of physical-AI-embodied systems such as robots and autonomous vehicles is accelerated with the new NVIDIA Cosmos™ platform. From the cloud to the office to the data center to the edge, NVIDIA provides solutions that deliver breakthrough performance on enterprise AI and HPC workloads at any scale, driving business decisions in real time and resulting in faster time to value.
+[Tavily] About NVIDIA
+📆 kein Datum angegeben
+https://resources.nvidia.com/en-us-nvidia-story/about-nvidia
+About NVIDIA ![](https://px.ads.linkedin.com/collect/?pid=84497&fmt=gif) ![](https://www.facebook.com/tr?id=161755414605325&ev=PageView&noscript=1) ![NVIDIA Story](https://cdn.pathfactory.com/assets/10412/contents/408252/thumbnails/600x/NVIDIA-Story.png ""NVIDIA Story"") NVIDIA Story There’s more to NVIDIA than you can imagine. Get to know us better and be part of the journey.](/en-us-nvidia-story/nvidia-story) [![](https://app.cdn.lookbookhq.com/lbhq-production/10412/thumbnails/original/cc8df558-c3d9-464e-bef4-ad9192e38d5d.png)](https://www.nvidia.com/en-us/) LinkedIn LinkTwitter LinkFacebook LinkEmail Link [Read our story](https://www.nvidia.com/en-us/about-nvidia/) #### Recommended For You [![](https://cdn.pathfactory.com/assets/10412/logos/477996/d4950ed9-49ce-4fca-b333-e287fc8f5d35.jpg) webpage:Web PageAbout NVIDIA](/en-us-nvidia-story/about-nvidia)[![](https://cdn.pathfactory.com/assets/10412/contents/408252/thumbnails/600x/NVIDIA-Story.png) webpage:BrochureNVIDIA Story](/en-us-nvidia-story/nvidia-story)[![](https://cdn.pathfactory.com/assets/10412/contents/408253/thumbnails/600x/7881b38e-633a-4adc-98e7-151e95804e8e.jpg) video:VideoNVIDIA Story Video](/en-us-nvidia-story/nvidia-story-video)[![](https://cdn.pathfactory.com/assets/10412/contents/417570/thumbnails/600x/3d301281-df66-4f69-9012-8e3a7c61f172-1.png) pdf:BrochureNVIDIA In Brief](/en-us-nvidia-story/corporate-nvidia-in-brief) NVIDIA websites use cookies to deliver and improve the website experience. See our [cookie policy](https://www.nvidia.com/en-us/about-nvidia/cookie-policy/) for further details on how we use cookies and how to change your cookie settings. Accept ![](https://resources.nvidia.com/akam/13/pixel_3c4c86b9?a=dD0yMjZlMGY2ZmU5MDFmYTZmOTYzNjRhYjU5MWUyZTIzMTdjYjEwMWM1JmpzPW9mZg==)
+[Tavily] Download The Official NVIDIA Drivers | NVIDIA
+📆 kein Datum angegeben
+https://www.nvidia.com/en-us/drivers/
+AI Workbench Simplify AI development with NVIDIA AI Workbench on GPUsAPI Catalog Explore NVIDIA's AI models, blueprints, and tools for developersData Center Management AI and HPC software solutions for data center accelerationGPU Monitoring Monitor and manage GPU performance in cluster environmentsNsight Explore NVIDIA developer tools for AI, graphics, and HPCNGC Catalog Discover GPU-optimized AI, HPC, and data science softwareNVIDIA App for Laptops Optimize enterprise GPU managementNVIDIA NGC Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutionsDesktop Manager Enhance multi-display productivity with NVIDIA RTX Desktop ManagerRTX Accelerated Creative Apps Creative tools and AI-powered apps for artists and designersVideo Conferencing AI-powered audio and video enhancement
+[Tavily] Drivers - Download NVIDIA Drivers
+📆 kein Datum angegeben
+https://www.nvidia.co.uk/Download/indexsg.aspx?lang=en-us
+For more information about how to access your purchased licenses visit thevGPU Software Downloads page.LoginBeta, Older drivers and more.Beta and Older DriversQuadro Advanced Options (Quadro View, NVWMI, etc.)Unix DriversNVIDIA CUDA Driver for MACNVIDIA PhysX System SoftwareNVIDIA System ToolsDeveloper Tools and SDKsLegacy Product DriversNeed help?Technical SupportSubscribe to the latest Driver news on theNVIDIA blog! For more information about how to access your purchased licenses visit thevGPU Software Downloads page.Login | Beta, Older drivers and more.Beta and Older DriversQuadro Advanced Options (Quadro View, NVWMI, etc.)Unix DriversNVIDIA CUDA Driver for MACNVIDIA PhysX System SoftwareNVIDIA System ToolsDeveloper Tools and SDKsLegacy Product Drivers | Need help?Technical Support | Subscribe to the latest Driver news on theNVIDIA blog!
+
+💰 Yahoo Finance:
+Schlusskurs am 2025-05-19: 135.57 USD
+
+📈 Alpha Vantage:
+NVDA (Alpha Vantage) Schlusskurs am 2025-05-19: 135.5700 USD
+
+🔹 web_agent:
+Nvidia plant ein größeres Büro in Taiwan und die Zusammenarbeit mit lokalen Supercomputern, so CEO Huang. Nvidia will sein KI-Geschäft angeblich über „Hyperscaler“ hinaus ausweiten. Nvidia kündigt neue Technologien an, um im Zentrum der KI-Entwicklung zu bleiben.
+
+🔹 web_agent:
+Transferring back to supervisor
+
+🔹 transfer_back_to_supervisor:
+Successfully transferred back to supervisor
+
+🔹 supervisor:
+Nvidia plant ein größeres Büro in Taiwan und die Zusammenarbeit mit lokalen Supercomputern, so CEO Huang. Nvidia will sein KI-Geschäft angeblich über „Hyperscaler“ hinaus ausweiten und kündigt neue Technologien an, um im Zentrum der KI-Entwicklung zu bleiben. Der Schlusskurs am 19.05.2025 lag bei 135,57 USD.",2025-05-20 12:16:22.383958
+what are the news for Nvidia?,"🔹 None:
+what are the news for Nvidia?
+
+🔹 transfer_to_web_agent:
+Successfully transferred to web_agent
+
+🔹 get_company_news:
+📊 Daten für Nvidia (NVDA)
+
+🔎 Aktuelle Nachrichten via NewsAPI:
+- Nvidia plans larger Taiwan office and local supercomputer collaboration, CEO Huang says
+ In his keynote speech at Computex in Taipei, Jensen Huang said Nvidia secured a lease for a new property and is partnering with local firms, including Foxconn.
+ (Biztoc.com)
+ https://biztoc.com/x/c1fd18453d7eb969
+
+- Nvidia Reportedly Aiming to Expand AI Business Beyond ‘Hyperscalers’
+ Chipmaker Nvidia is reportedly working to lessen its dependency on Big Tech.
+The company is doing this by forging new partnerships to sell artificial intelligence (AI) to national governments, corporations and challengers to companies like Google, Amazon and …
+ (Biztoc.com)
+ https://biztoc.com/x/67b3ecae59d34d5d
+
+- Nvidia announces new tech to keep it at the center of AI development
+ Nvidia CEO Jensen Huang made a slew of announcements and revealed new products on Monday, aiming to sustain its leadership in AI computing.
+ (Biztoc.com)
+ https://biztoc.com/x/c870830915473689
+
+- Microsoft hosts developer conference as focus grows on AI profits
+ SEATTLE :Microsoft hosts its annual software developer conference in Seattle on Monday, drawing thousands of coders looking to turn the past years of investments into artificial intelligence into profitable products and services for consumers and businesses.T…
+ (CNA)
+ https://www.channelnewsasia.com/business/microsoft-hosts-developer-conference-focus-grows-ai-profits-5139446
+
+- Nvidia announces new tech to keep it at the center of AI development
+ Nvidia CEO Jensen Huang made a slew of announcements and revealed new products on Monday, aiming to sustain its leadership in AI computing.
+ (CNBC)
+ https://www.cnbc.com/2025/05/19/nvidia-announces-new-tech-to-keep-it-at-the-center-of-ai-development-.html
+
+
+🌍 Tavily (mit Datum):
+[Tavily] Nvidia - Wikipedia
+📆 kein Datum angegeben
+https://en.wikipedia.org/wiki/Nvidia
+Nvidia Corporation[a] (/ɛnˈvɪdiə/ en-VID-ee-ə) is an American multinational corporation and technology company headquartered in Santa Clara, California, and incorporated in Delaware.[5] Founded in 1993 by Jensen Huang (president and CEO), Chris Malachowsky, and Curtis Priem, it designs and supplies graphics processing units (GPUs), application programming interfaces (APIs) for data science and high-performance computing, and system on a chip units (SoCs) for mobile computing and the automotive market. In addition to GPU design and outsourcing manufacturing, Nvidia provides the CUDA software platform and API that allows the creation of massively parallel programs which utilize GPUs.[11][12] They are deployed in supercomputing sites around the world.[13][14] In the late 2000s, Nvidia had moved into the mobile computing market, where it produced Tegra mobile processors for smartphones and tablets and vehicle navigation and entertainment systems.[15][16][17] Its competitors include AMD, Intel,[18] Qualcomm,[19] and AI accelerator companies such as Cerebras and Graphcore.
+[Tavily] Nvidia - Official Site
+📆 kein Datum angegeben
+http://www.nvidia.com/page/home.html
+Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutions Discover NVIDIA’s HPC solutions for AI, simulation, and accelerated computing Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutions Discover NVIDIA’s HPC solutions for AI, simulation, and accelerated computing The development of physical-AI-embodied systems such as robots and autonomous vehicles is accelerated with the new NVIDIA Cosmos™ platform. The development of physical-AI-embodied systems such as robots and autonomous vehicles is accelerated with the new NVIDIA Cosmos™ platform. From the cloud to the office to the data center to the edge, NVIDIA provides solutions that deliver breakthrough performance on enterprise AI and HPC workloads at any scale, driving business decisions in real time and resulting in faster time to value.
+[Tavily] About NVIDIA
+📆 kein Datum angegeben
+https://resources.nvidia.com/en-us-nvidia-story/about-nvidia
+About NVIDIA ![](https://px.ads.linkedin.com/collect/?pid=84497&fmt=gif) ![](https://www.facebook.com/tr?id=161755414605325&ev=PageView&noscript=1) ![NVIDIA Story](https://cdn.pathfactory.com/assets/10412/contents/408252/thumbnails/600x/NVIDIA-Story.png ""NVIDIA Story"") NVIDIA Story There’s more to NVIDIA than you can imagine. Get to know us better and be part of the journey.](/en-us-nvidia-story/nvidia-story) [![](https://app.cdn.lookbookhq.com/lbhq-production/10412/thumbnails/original/cc8df558-c3d9-464e-bef4-ad9192e38d5d.png)](https://www.nvidia.com/en-us/) LinkedIn LinkTwitter LinkFacebook LinkEmail Link [Read our story](https://www.nvidia.com/en-us/about-nvidia/) #### Recommended For You [![](https://cdn.pathfactory.com/assets/10412/logos/477996/d4950ed9-49ce-4fca-b333-e287fc8f5d35.jpg) webpage:Web PageAbout NVIDIA](/en-us-nvidia-story/about-nvidia)[![](https://cdn.pathfactory.com/assets/10412/contents/408252/thumbnails/600x/NVIDIA-Story.png) webpage:BrochureNVIDIA Story](/en-us-nvidia-story/nvidia-story)[![](https://cdn.pathfactory.com/assets/10412/contents/408253/thumbnails/600x/7881b38e-633a-4adc-98e7-151e95804e8e.jpg) video:VideoNVIDIA Story Video](/en-us-nvidia-story/nvidia-story-video)[![](https://cdn.pathfactory.com/assets/10412/contents/417570/thumbnails/600x/3d301281-df66-4f69-9012-8e3a7c61f172-1.png) pdf:BrochureNVIDIA In Brief](/en-us-nvidia-story/corporate-nvidia-in-brief) NVIDIA websites use cookies to deliver and improve the website experience. See our [cookie policy](https://www.nvidia.com/en-us/about-nvidia/cookie-policy/) for further details on how we use cookies and how to change your cookie settings. Accept ![](https://resources.nvidia.com/akam/13/pixel_3c4c86b9?a=dD0yMjZlMGY2ZmU5MDFmYTZmOTYzNjRhYjU5MWUyZTIzMTdjYjEwMWM1JmpzPW9mZg==)
+[Tavily] Download The Official NVIDIA Drivers | NVIDIA
+📆 kein Datum angegeben
+https://www.nvidia.com/en-us/drivers/
+AI Workbench Simplify AI development with NVIDIA AI Workbench on GPUsAPI Catalog Explore NVIDIA's AI models, blueprints, and tools for developersData Center Management AI and HPC software solutions for data center accelerationGPU Monitoring Monitor and manage GPU performance in cluster environmentsNsight Explore NVIDIA developer tools for AI, graphics, and HPCNGC Catalog Discover GPU-optimized AI, HPC, and data science softwareNVIDIA App for Laptops Optimize enterprise GPU managementNVIDIA NGC Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutionsDesktop Manager Enhance multi-display productivity with NVIDIA RTX Desktop ManagerRTX Accelerated Creative Apps Creative tools and AI-powered apps for artists and designersVideo Conferencing AI-powered audio and video enhancement
+[Tavily] Drivers - Download NVIDIA Drivers
+📆 kein Datum angegeben
+https://www.nvidia.co.uk/Download/indexsg.aspx?lang=en-us
+For more information about how to access your purchased licenses visit thevGPU Software Downloads page.LoginBeta, Older drivers and more.Beta and Older DriversQuadro Advanced Options (Quadro View, NVWMI, etc.)Unix DriversNVIDIA CUDA Driver for MACNVIDIA PhysX System SoftwareNVIDIA System ToolsDeveloper Tools and SDKsLegacy Product DriversNeed help?Technical SupportSubscribe to the latest Driver news on theNVIDIA blog! For more information about how to access your purchased licenses visit thevGPU Software Downloads page.Login | Beta, Older drivers and more.Beta and Older DriversQuadro Advanced Options (Quadro View, NVWMI, etc.)Unix DriversNVIDIA CUDA Driver for MACNVIDIA PhysX System SoftwareNVIDIA System ToolsDeveloper Tools and SDKsLegacy Product Drivers | Need help?Technical Support | Subscribe to the latest Driver news on theNVIDIA blog!
+
+💰 Yahoo Finance:
+Schlusskurs am 2025-05-19: 135.57 USD
+
+📈 Alpha Vantage:
+NVDA (Alpha Vantage) Schlusskurs am 2025-05-19: 135.5700 USD
+
+🔹 web_agent:
+Nvidia plant ein größeres Büro in Taiwan und die Zusammenarbeit mit lokalen Supercomputern, so CEO Huang. Nvidia will sein KI-Geschäft angeblich über „Hyperscaler“ hinaus ausweiten. Nvidia kündigt neue Technologien an, um im Zentrum der KI-Entwicklung zu bleiben.
+
+🔹 web_agent:
+Transferring back to supervisor
+
+🔹 transfer_back_to_supervisor:
+Successfully transferred back to supervisor
+
+🔹 supervisor:
+Nvidia plant ein größeres Büro in Taiwan und die Zusammenarbeit mit lokalen Supercomputern, so CEO Huang. Nvidia will sein KI-Geschäft angeblich über „Hyperscaler“ hinaus ausweiten und kündigt neue Technologien an, um im Zentrum der KI-Entwicklung zu bleiben. Der Schlusskurs am 19.05.2025 lag bei 135,57 USD.",2025-05-20 12:16:24.705822
+what are the news for Nvidia?,"🔹 None:
+what are the news for Nvidia?
+
+🔹 transfer_to_web_agent:
+Successfully transferred to web_agent
+
+🔹 get_company_news:
+📊 Daten für Nvidia (NVDA)
+
+🔎 Aktuelle Nachrichten via NewsAPI:
+- Nvidia plans larger Taiwan office and local supercomputer collaboration, CEO Huang says
+ In his keynote speech at Computex in Taipei, Jensen Huang said Nvidia secured a lease for a new property and is partnering with local firms, including Foxconn.
+ (Biztoc.com)
+ https://biztoc.com/x/c1fd18453d7eb969
+
+- Nvidia Reportedly Aiming to Expand AI Business Beyond ‘Hyperscalers’
+ Chipmaker Nvidia is reportedly working to lessen its dependency on Big Tech.
+The company is doing this by forging new partnerships to sell artificial intelligence (AI) to national governments, corporations and challengers to companies like Google, Amazon and …
+ (Biztoc.com)
+ https://biztoc.com/x/67b3ecae59d34d5d
+
+- Nvidia announces new tech to keep it at the center of AI development
+ Nvidia CEO Jensen Huang made a slew of announcements and revealed new products on Monday, aiming to sustain its leadership in AI computing.
+ (Biztoc.com)
+ https://biztoc.com/x/c870830915473689
+
+- Microsoft hosts developer conference as focus grows on AI profits
+ SEATTLE :Microsoft hosts its annual software developer conference in Seattle on Monday, drawing thousands of coders looking to turn the past years of investments into artificial intelligence into profitable products and services for consumers and businesses.T…
+ (CNA)
+ https://www.channelnewsasia.com/business/microsoft-hosts-developer-conference-focus-grows-ai-profits-5139446
+
+- Nvidia announces new tech to keep it at the center of AI development
+ Nvidia CEO Jensen Huang made a slew of announcements and revealed new products on Monday, aiming to sustain its leadership in AI computing.
+ (CNBC)
+ https://www.cnbc.com/2025/05/19/nvidia-announces-new-tech-to-keep-it-at-the-center-of-ai-development-.html
+
+
+🌍 Tavily (mit Datum):
+[Tavily] Nvidia - Wikipedia
+📆 kein Datum angegeben
+https://en.wikipedia.org/wiki/Nvidia
+Nvidia Corporation[a] (/ɛnˈvɪdiə/ en-VID-ee-ə) is an American multinational corporation and technology company headquartered in Santa Clara, California, and incorporated in Delaware.[5] Founded in 1993 by Jensen Huang (president and CEO), Chris Malachowsky, and Curtis Priem, it designs and supplies graphics processing units (GPUs), application programming interfaces (APIs) for data science and high-performance computing, and system on a chip units (SoCs) for mobile computing and the automotive market. In addition to GPU design and outsourcing manufacturing, Nvidia provides the CUDA software platform and API that allows the creation of massively parallel programs which utilize GPUs.[11][12] They are deployed in supercomputing sites around the world.[13][14] In the late 2000s, Nvidia had moved into the mobile computing market, where it produced Tegra mobile processors for smartphones and tablets and vehicle navigation and entertainment systems.[15][16][17] Its competitors include AMD, Intel,[18] Qualcomm,[19] and AI accelerator companies such as Cerebras and Graphcore.
+[Tavily] Nvidia - Official Site
+📆 kein Datum angegeben
+http://www.nvidia.com/page/home.html
+Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutions Discover NVIDIA’s HPC solutions for AI, simulation, and accelerated computing Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutions Discover NVIDIA’s HPC solutions for AI, simulation, and accelerated computing The development of physical-AI-embodied systems such as robots and autonomous vehicles is accelerated with the new NVIDIA Cosmos™ platform. The development of physical-AI-embodied systems such as robots and autonomous vehicles is accelerated with the new NVIDIA Cosmos™ platform. From the cloud to the office to the data center to the edge, NVIDIA provides solutions that deliver breakthrough performance on enterprise AI and HPC workloads at any scale, driving business decisions in real time and resulting in faster time to value.
+[Tavily] About NVIDIA
+📆 kein Datum angegeben
+https://resources.nvidia.com/en-us-nvidia-story/about-nvidia
+About NVIDIA ![](https://px.ads.linkedin.com/collect/?pid=84497&fmt=gif) ![](https://www.facebook.com/tr?id=161755414605325&ev=PageView&noscript=1) ![NVIDIA Story](https://cdn.pathfactory.com/assets/10412/contents/408252/thumbnails/600x/NVIDIA-Story.png ""NVIDIA Story"") NVIDIA Story There’s more to NVIDIA than you can imagine. Get to know us better and be part of the journey.](/en-us-nvidia-story/nvidia-story) [![](https://app.cdn.lookbookhq.com/lbhq-production/10412/thumbnails/original/cc8df558-c3d9-464e-bef4-ad9192e38d5d.png)](https://www.nvidia.com/en-us/) LinkedIn LinkTwitter LinkFacebook LinkEmail Link [Read our story](https://www.nvidia.com/en-us/about-nvidia/) #### Recommended For You [![](https://cdn.pathfactory.com/assets/10412/logos/477996/d4950ed9-49ce-4fca-b333-e287fc8f5d35.jpg) webpage:Web PageAbout NVIDIA](/en-us-nvidia-story/about-nvidia)[![](https://cdn.pathfactory.com/assets/10412/contents/408252/thumbnails/600x/NVIDIA-Story.png) webpage:BrochureNVIDIA Story](/en-us-nvidia-story/nvidia-story)[![](https://cdn.pathfactory.com/assets/10412/contents/408253/thumbnails/600x/7881b38e-633a-4adc-98e7-151e95804e8e.jpg) video:VideoNVIDIA Story Video](/en-us-nvidia-story/nvidia-story-video)[![](https://cdn.pathfactory.com/assets/10412/contents/417570/thumbnails/600x/3d301281-df66-4f69-9012-8e3a7c61f172-1.png) pdf:BrochureNVIDIA In Brief](/en-us-nvidia-story/corporate-nvidia-in-brief) NVIDIA websites use cookies to deliver and improve the website experience. See our [cookie policy](https://www.nvidia.com/en-us/about-nvidia/cookie-policy/) for further details on how we use cookies and how to change your cookie settings. Accept ![](https://resources.nvidia.com/akam/13/pixel_3c4c86b9?a=dD0yMjZlMGY2ZmU5MDFmYTZmOTYzNjRhYjU5MWUyZTIzMTdjYjEwMWM1JmpzPW9mZg==)
+[Tavily] Download The Official NVIDIA Drivers | NVIDIA
+📆 kein Datum angegeben
+https://www.nvidia.com/en-us/drivers/
+AI Workbench Simplify AI development with NVIDIA AI Workbench on GPUsAPI Catalog Explore NVIDIA's AI models, blueprints, and tools for developersData Center Management AI and HPC software solutions for data center accelerationGPU Monitoring Monitor and manage GPU performance in cluster environmentsNsight Explore NVIDIA developer tools for AI, graphics, and HPCNGC Catalog Discover GPU-optimized AI, HPC, and data science softwareNVIDIA App for Laptops Optimize enterprise GPU managementNVIDIA NGC Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutionsDesktop Manager Enhance multi-display productivity with NVIDIA RTX Desktop ManagerRTX Accelerated Creative Apps Creative tools and AI-powered apps for artists and designersVideo Conferencing AI-powered audio and video enhancement
+[Tavily] Drivers - Download NVIDIA Drivers
+📆 kein Datum angegeben
+https://www.nvidia.co.uk/Download/indexsg.aspx?lang=en-us
+For more information about how to access your purchased licenses visit thevGPU Software Downloads page.LoginBeta, Older drivers and more.Beta and Older DriversQuadro Advanced Options (Quadro View, NVWMI, etc.)Unix DriversNVIDIA CUDA Driver for MACNVIDIA PhysX System SoftwareNVIDIA System ToolsDeveloper Tools and SDKsLegacy Product DriversNeed help?Technical SupportSubscribe to the latest Driver news on theNVIDIA blog! For more information about how to access your purchased licenses visit thevGPU Software Downloads page.Login | Beta, Older drivers and more.Beta and Older DriversQuadro Advanced Options (Quadro View, NVWMI, etc.)Unix DriversNVIDIA CUDA Driver for MACNVIDIA PhysX System SoftwareNVIDIA System ToolsDeveloper Tools and SDKsLegacy Product Drivers | Need help?Technical Support | Subscribe to the latest Driver news on theNVIDIA blog!
+
+💰 Yahoo Finance:
+Schlusskurs am 2025-05-19: 135.57 USD
+
+📈 Alpha Vantage:
+NVDA (Alpha Vantage) Schlusskurs am 2025-05-19: 135.5700 USD
+
+🔹 web_agent:
+Nvidia plant ein größeres Büro in Taiwan und die Zusammenarbeit mit lokalen Supercomputern, so CEO Huang. Nvidia will sein KI-Geschäft angeblich über „Hyperscaler“ hinaus ausweiten. Nvidia kündigt neue Technologien an, um im Zentrum der KI-Entwicklung zu bleiben.
+
+🔹 web_agent:
+Transferring back to supervisor
+
+🔹 transfer_back_to_supervisor:
+Successfully transferred back to supervisor
+
+🔹 supervisor:
+Nvidia plant ein größeres Büro in Taiwan und die Zusammenarbeit mit lokalen Supercomputern, so CEO Huang. Nvidia will sein KI-Geschäft angeblich über „Hyperscaler“ hinaus ausweiten und kündigt neue Technologien an, um im Zentrum der KI-Entwicklung zu bleiben. Der Schlusskurs am 19.05.2025 lag bei 135,57 USD.",2025-05-20 12:16:33.711325
+what are the news for Nvidia?,"🔹 None:
+what are the news for Nvidia?
+
+🔹 transfer_to_web_agent:
+Successfully transferred to web_agent
+
+🔹 get_company_news:
+📊 Daten für Nvidia (NVDA)
+
+🔎 Aktuelle Nachrichten via NewsAPI:
+- Nvidia plans larger Taiwan office and local supercomputer collaboration, CEO Huang says
+ In his keynote speech at Computex in Taipei, Jensen Huang said Nvidia secured a lease for a new property and is partnering with local firms, including Foxconn.
+ (Biztoc.com)
+ https://biztoc.com/x/c1fd18453d7eb969
+
+- Nvidia Reportedly Aiming to Expand AI Business Beyond ‘Hyperscalers’
+ Chipmaker Nvidia is reportedly working to lessen its dependency on Big Tech.
+The company is doing this by forging new partnerships to sell artificial intelligence (AI) to national governments, corporations and challengers to companies like Google, Amazon and …
+ (Biztoc.com)
+ https://biztoc.com/x/67b3ecae59d34d5d
+
+- Nvidia announces new tech to keep it at the center of AI development
+ Nvidia CEO Jensen Huang made a slew of announcements and revealed new products on Monday, aiming to sustain its leadership in AI computing.
+ (Biztoc.com)
+ https://biztoc.com/x/c870830915473689
+
+- Microsoft hosts developer conference as focus grows on AI profits
+ SEATTLE :Microsoft hosts its annual software developer conference in Seattle on Monday, drawing thousands of coders looking to turn the past years of investments into artificial intelligence into profitable products and services for consumers and businesses.T…
+ (CNA)
+ https://www.channelnewsasia.com/business/microsoft-hosts-developer-conference-focus-grows-ai-profits-5139446
+
+- Nvidia announces new tech to keep it at the center of AI development
+ Nvidia CEO Jensen Huang made a slew of announcements and revealed new products on Monday, aiming to sustain its leadership in AI computing.
+ (CNBC)
+ https://www.cnbc.com/2025/05/19/nvidia-announces-new-tech-to-keep-it-at-the-center-of-ai-development-.html
+
+
+🌍 Tavily (mit Datum):
+[Tavily] Nvidia - Wikipedia
+📆 kein Datum angegeben
+https://en.wikipedia.org/wiki/Nvidia
+Nvidia Corporation[a] (/ɛnˈvɪdiə/ en-VID-ee-ə) is an American multinational corporation and technology company headquartered in Santa Clara, California, and incorporated in Delaware.[5] Founded in 1993 by Jensen Huang (president and CEO), Chris Malachowsky, and Curtis Priem, it designs and supplies graphics processing units (GPUs), application programming interfaces (APIs) for data science and high-performance computing, and system on a chip units (SoCs) for mobile computing and the automotive market. In addition to GPU design and outsourcing manufacturing, Nvidia provides the CUDA software platform and API that allows the creation of massively parallel programs which utilize GPUs.[11][12] They are deployed in supercomputing sites around the world.[13][14] In the late 2000s, Nvidia had moved into the mobile computing market, where it produced Tegra mobile processors for smartphones and tablets and vehicle navigation and entertainment systems.[15][16][17] Its competitors include AMD, Intel,[18] Qualcomm,[19] and AI accelerator companies such as Cerebras and Graphcore.
+[Tavily] Nvidia - Official Site
+📆 kein Datum angegeben
+http://www.nvidia.com/page/home.html
+Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutions Discover NVIDIA’s HPC solutions for AI, simulation, and accelerated computing Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutions Discover NVIDIA’s HPC solutions for AI, simulation, and accelerated computing The development of physical-AI-embodied systems such as robots and autonomous vehicles is accelerated with the new NVIDIA Cosmos™ platform. The development of physical-AI-embodied systems such as robots and autonomous vehicles is accelerated with the new NVIDIA Cosmos™ platform. From the cloud to the office to the data center to the edge, NVIDIA provides solutions that deliver breakthrough performance on enterprise AI and HPC workloads at any scale, driving business decisions in real time and resulting in faster time to value.
+[Tavily] About NVIDIA
+📆 kein Datum angegeben
+https://resources.nvidia.com/en-us-nvidia-story/about-nvidia
+About NVIDIA ![](https://px.ads.linkedin.com/collect/?pid=84497&fmt=gif) ![](https://www.facebook.com/tr?id=161755414605325&ev=PageView&noscript=1) ![NVIDIA Story](https://cdn.pathfactory.com/assets/10412/contents/408252/thumbnails/600x/NVIDIA-Story.png ""NVIDIA Story"") NVIDIA Story There’s more to NVIDIA than you can imagine. Get to know us better and be part of the journey.](/en-us-nvidia-story/nvidia-story) [![](https://app.cdn.lookbookhq.com/lbhq-production/10412/thumbnails/original/cc8df558-c3d9-464e-bef4-ad9192e38d5d.png)](https://www.nvidia.com/en-us/) LinkedIn LinkTwitter LinkFacebook LinkEmail Link [Read our story](https://www.nvidia.com/en-us/about-nvidia/) #### Recommended For You [![](https://cdn.pathfactory.com/assets/10412/logos/477996/d4950ed9-49ce-4fca-b333-e287fc8f5d35.jpg) webpage:Web PageAbout NVIDIA](/en-us-nvidia-story/about-nvidia)[![](https://cdn.pathfactory.com/assets/10412/contents/408252/thumbnails/600x/NVIDIA-Story.png) webpage:BrochureNVIDIA Story](/en-us-nvidia-story/nvidia-story)[![](https://cdn.pathfactory.com/assets/10412/contents/408253/thumbnails/600x/7881b38e-633a-4adc-98e7-151e95804e8e.jpg) video:VideoNVIDIA Story Video](/en-us-nvidia-story/nvidia-story-video)[![](https://cdn.pathfactory.com/assets/10412/contents/417570/thumbnails/600x/3d301281-df66-4f69-9012-8e3a7c61f172-1.png) pdf:BrochureNVIDIA In Brief](/en-us-nvidia-story/corporate-nvidia-in-brief) NVIDIA websites use cookies to deliver and improve the website experience. See our [cookie policy](https://www.nvidia.com/en-us/about-nvidia/cookie-policy/) for further details on how we use cookies and how to change your cookie settings. Accept ![](https://resources.nvidia.com/akam/13/pixel_3c4c86b9?a=dD0yMjZlMGY2ZmU5MDFmYTZmOTYzNjRhYjU5MWUyZTIzMTdjYjEwMWM1JmpzPW9mZg==)
+[Tavily] Download The Official NVIDIA Drivers | NVIDIA
+📆 kein Datum angegeben
+https://www.nvidia.com/en-us/drivers/
+AI Workbench Simplify AI development with NVIDIA AI Workbench on GPUsAPI Catalog Explore NVIDIA's AI models, blueprints, and tools for developersData Center Management AI and HPC software solutions for data center accelerationGPU Monitoring Monitor and manage GPU performance in cluster environmentsNsight Explore NVIDIA developer tools for AI, graphics, and HPCNGC Catalog Discover GPU-optimized AI, HPC, and data science softwareNVIDIA App for Laptops Optimize enterprise GPU managementNVIDIA NGC Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutionsDesktop Manager Enhance multi-display productivity with NVIDIA RTX Desktop ManagerRTX Accelerated Creative Apps Creative tools and AI-powered apps for artists and designersVideo Conferencing AI-powered audio and video enhancement
+[Tavily] Drivers - Download NVIDIA Drivers
+📆 kein Datum angegeben
+https://www.nvidia.co.uk/Download/indexsg.aspx?lang=en-us
+For more information about how to access your purchased licenses visit thevGPU Software Downloads page.LoginBeta, Older drivers and more.Beta and Older DriversQuadro Advanced Options (Quadro View, NVWMI, etc.)Unix DriversNVIDIA CUDA Driver for MACNVIDIA PhysX System SoftwareNVIDIA System ToolsDeveloper Tools and SDKsLegacy Product DriversNeed help?Technical SupportSubscribe to the latest Driver news on theNVIDIA blog! For more information about how to access your purchased licenses visit thevGPU Software Downloads page.Login | Beta, Older drivers and more.Beta and Older DriversQuadro Advanced Options (Quadro View, NVWMI, etc.)Unix DriversNVIDIA CUDA Driver for MACNVIDIA PhysX System SoftwareNVIDIA System ToolsDeveloper Tools and SDKsLegacy Product Drivers | Need help?Technical Support | Subscribe to the latest Driver news on theNVIDIA blog!
+
+💰 Yahoo Finance:
+Schlusskurs am 2025-05-19: 135.57 USD
+
+📈 Alpha Vantage:
+NVDA (Alpha Vantage) Schlusskurs am 2025-05-19: 135.5700 USD
+
+🔹 web_agent:
+Nvidia plant ein größeres Büro in Taiwan und die Zusammenarbeit mit lokalen Supercomputern, so CEO Huang. Nvidia will sein KI-Geschäft angeblich über „Hyperscaler“ hinaus ausweiten. Nvidia kündigt neue Technologien an, um im Zentrum der KI-Entwicklung zu bleiben.
+
+🔹 web_agent:
+Transferring back to supervisor
+
+🔹 transfer_back_to_supervisor:
+Successfully transferred back to supervisor
+
+🔹 supervisor:
+Nvidia plant ein größeres Büro in Taiwan und die Zusammenarbeit mit lokalen Supercomputern, so CEO Huang. Nvidia will sein KI-Geschäft angeblich über „Hyperscaler“ hinaus ausweiten und kündigt neue Technologien an, um im Zentrum der KI-Entwicklung zu bleiben. Der Schlusskurs am 19.05.2025 lag bei 135,57 USD.",2025-05-20 12:16:56.927533
+what are the news for Nvidia?,"🔹 None:
+what are the news for Nvidia?
+
+🔹 transfer_to_web_agent:
+Successfully transferred to web_agent
+
+🔹 get_company_news:
+📊 Daten für Nvidia (NVDA)
+
+🔎 Aktuelle Nachrichten via NewsAPI:
+- Nvidia plans larger Taiwan office and local supercomputer collaboration, CEO Huang says
+ In his keynote speech at Computex in Taipei, Jensen Huang said Nvidia secured a lease for a new property and is partnering with local firms, including Foxconn.
+ (Biztoc.com)
+ https://biztoc.com/x/c1fd18453d7eb969
+
+- Nvidia Reportedly Aiming to Expand AI Business Beyond ‘Hyperscalers’
+ Chipmaker Nvidia is reportedly working to lessen its dependency on Big Tech.
+The company is doing this by forging new partnerships to sell artificial intelligence (AI) to national governments, corporations and challengers to companies like Google, Amazon and …
+ (Biztoc.com)
+ https://biztoc.com/x/67b3ecae59d34d5d
+
+- Nvidia announces new tech to keep it at the center of AI development
+ Nvidia CEO Jensen Huang made a slew of announcements and revealed new products on Monday, aiming to sustain its leadership in AI computing.
+ (Biztoc.com)
+ https://biztoc.com/x/c870830915473689
+
+- Microsoft hosts developer conference as focus grows on AI profits
+ SEATTLE :Microsoft hosts its annual software developer conference in Seattle on Monday, drawing thousands of coders looking to turn the past years of investments into artificial intelligence into profitable products and services for consumers and businesses.T…
+ (CNA)
+ https://www.channelnewsasia.com/business/microsoft-hosts-developer-conference-focus-grows-ai-profits-5139446
+
+- Nvidia announces new tech to keep it at the center of AI development
+ Nvidia CEO Jensen Huang made a slew of announcements and revealed new products on Monday, aiming to sustain its leadership in AI computing.
+ (CNBC)
+ https://www.cnbc.com/2025/05/19/nvidia-announces-new-tech-to-keep-it-at-the-center-of-ai-development-.html
+
+
+🌍 Tavily (mit Datum):
+[Tavily] Nvidia - Wikipedia
+📆 kein Datum angegeben
+https://en.wikipedia.org/wiki/Nvidia
+Nvidia Corporation[a] (/ɛnˈvɪdiə/ en-VID-ee-ə) is an American multinational corporation and technology company headquartered in Santa Clara, California, and incorporated in Delaware.[5] Founded in 1993 by Jensen Huang (president and CEO), Chris Malachowsky, and Curtis Priem, it designs and supplies graphics processing units (GPUs), application programming interfaces (APIs) for data science and high-performance computing, and system on a chip units (SoCs) for mobile computing and the automotive market. In addition to GPU design and outsourcing manufacturing, Nvidia provides the CUDA software platform and API that allows the creation of massively parallel programs which utilize GPUs.[11][12] They are deployed in supercomputing sites around the world.[13][14] In the late 2000s, Nvidia had moved into the mobile computing market, where it produced Tegra mobile processors for smartphones and tablets and vehicle navigation and entertainment systems.[15][16][17] Its competitors include AMD, Intel,[18] Qualcomm,[19] and AI accelerator companies such as Cerebras and Graphcore.
+[Tavily] Nvidia - Official Site
+📆 kein Datum angegeben
+http://www.nvidia.com/page/home.html
+Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutions Discover NVIDIA’s HPC solutions for AI, simulation, and accelerated computing Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutions Discover NVIDIA’s HPC solutions for AI, simulation, and accelerated computing The development of physical-AI-embodied systems such as robots and autonomous vehicles is accelerated with the new NVIDIA Cosmos™ platform. The development of physical-AI-embodied systems such as robots and autonomous vehicles is accelerated with the new NVIDIA Cosmos™ platform. From the cloud to the office to the data center to the edge, NVIDIA provides solutions that deliver breakthrough performance on enterprise AI and HPC workloads at any scale, driving business decisions in real time and resulting in faster time to value.
+[Tavily] About NVIDIA
+📆 kein Datum angegeben
+https://resources.nvidia.com/en-us-nvidia-story/about-nvidia
+About NVIDIA ![](https://px.ads.linkedin.com/collect/?pid=84497&fmt=gif) ![](https://www.facebook.com/tr?id=161755414605325&ev=PageView&noscript=1) ![NVIDIA Story](https://cdn.pathfactory.com/assets/10412/contents/408252/thumbnails/600x/NVIDIA-Story.png ""NVIDIA Story"") NVIDIA Story There’s more to NVIDIA than you can imagine. Get to know us better and be part of the journey.](/en-us-nvidia-story/nvidia-story) [![](https://app.cdn.lookbookhq.com/lbhq-production/10412/thumbnails/original/cc8df558-c3d9-464e-bef4-ad9192e38d5d.png)](https://www.nvidia.com/en-us/) LinkedIn LinkTwitter LinkFacebook LinkEmail Link [Read our story](https://www.nvidia.com/en-us/about-nvidia/) #### Recommended For You [![](https://cdn.pathfactory.com/assets/10412/logos/477996/d4950ed9-49ce-4fca-b333-e287fc8f5d35.jpg) webpage:Web PageAbout NVIDIA](/en-us-nvidia-story/about-nvidia)[![](https://cdn.pathfactory.com/assets/10412/contents/408252/thumbnails/600x/NVIDIA-Story.png) webpage:BrochureNVIDIA Story](/en-us-nvidia-story/nvidia-story)[![](https://cdn.pathfactory.com/assets/10412/contents/408253/thumbnails/600x/7881b38e-633a-4adc-98e7-151e95804e8e.jpg) video:VideoNVIDIA Story Video](/en-us-nvidia-story/nvidia-story-video)[![](https://cdn.pathfactory.com/assets/10412/contents/417570/thumbnails/600x/3d301281-df66-4f69-9012-8e3a7c61f172-1.png) pdf:BrochureNVIDIA In Brief](/en-us-nvidia-story/corporate-nvidia-in-brief) NVIDIA websites use cookies to deliver and improve the website experience. See our [cookie policy](https://www.nvidia.com/en-us/about-nvidia/cookie-policy/) for further details on how we use cookies and how to change your cookie settings. Accept ![](https://resources.nvidia.com/akam/13/pixel_3c4c86b9?a=dD0yMjZlMGY2ZmU5MDFmYTZmOTYzNjRhYjU5MWUyZTIzMTdjYjEwMWM1JmpzPW9mZg==)
+[Tavily] Download The Official NVIDIA Drivers | NVIDIA
+📆 kein Datum angegeben
+https://www.nvidia.com/en-us/drivers/
+AI Workbench Simplify AI development with NVIDIA AI Workbench on GPUsAPI Catalog Explore NVIDIA's AI models, blueprints, and tools for developersData Center Management AI and HPC software solutions for data center accelerationGPU Monitoring Monitor and manage GPU performance in cluster environmentsNsight Explore NVIDIA developer tools for AI, graphics, and HPCNGC Catalog Discover GPU-optimized AI, HPC, and data science softwareNVIDIA App for Laptops Optimize enterprise GPU managementNVIDIA NGC Accelerate AI and HPC workloads with NVIDIA GPU Cloud solutionsDesktop Manager Enhance multi-display productivity with NVIDIA RTX Desktop ManagerRTX Accelerated Creative Apps Creative tools and AI-powered apps for artists and designersVideo Conferencing AI-powered audio and video enhancement
+[Tavily] Drivers - Download NVIDIA Drivers
+📆 kein Datum angegeben
+https://www.nvidia.co.uk/Download/indexsg.aspx?lang=en-us
+For more information about how to access your purchased licenses visit thevGPU Software Downloads page.LoginBeta, Older drivers and more.Beta and Older DriversQuadro Advanced Options (Quadro View, NVWMI, etc.)Unix DriversNVIDIA CUDA Driver for MACNVIDIA PhysX System SoftwareNVIDIA System ToolsDeveloper Tools and SDKsLegacy Product DriversNeed help?Technical SupportSubscribe to the latest Driver news on theNVIDIA blog! For more information about how to access your purchased licenses visit thevGPU Software Downloads page.Login | Beta, Older drivers and more.Beta and Older DriversQuadro Advanced Options (Quadro View, NVWMI, etc.)Unix DriversNVIDIA CUDA Driver for MACNVIDIA PhysX System SoftwareNVIDIA System ToolsDeveloper Tools and SDKsLegacy Product Drivers | Need help?Technical Support | Subscribe to the latest Driver news on theNVIDIA blog!
+
+💰 Yahoo Finance:
+Schlusskurs am 2025-05-19: 135.57 USD
+
+📈 Alpha Vantage:
+NVDA (Alpha Vantage) Schlusskurs am 2025-05-19: 135.5700 USD
+
+🔹 web_agent:
+Nvidia plant ein größeres Büro in Taiwan und die Zusammenarbeit mit lokalen Supercomputern, so CEO Huang. Nvidia will sein KI-Geschäft angeblich über „Hyperscaler“ hinaus ausweiten. Nvidia kündigt neue Technologien an, um im Zentrum der KI-Entwicklung zu bleiben.
+
+🔹 web_agent:
+Transferring back to supervisor
+
+🔹 transfer_back_to_supervisor:
+Successfully transferred back to supervisor
+
+🔹 supervisor:
+Nvidia plant ein größeres Büro in Taiwan und die Zusammenarbeit mit lokalen Supercomputern, so CEO Huang. Nvidia will sein KI-Geschäft angeblich über „Hyperscaler“ hinaus ausweiten und kündigt neue Technologien an, um im Zentrum der KI-Entwicklung zu bleiben. Der Schlusskurs am 19.05.2025 lag bei 135,57 USD.",2025-05-20 12:16:58.487236
