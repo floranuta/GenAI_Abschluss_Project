@@ -8,7 +8,7 @@ import os
 from langchain_core.tools import Tool
 from langgraph.prebuilt import create_react_agent
 from rag_agent import  financial_rag_agent
-from analytics_agent import analytics_agent
+from analytics_agent_new import analytics_agent
 
 
 gemini_model = init_chat_model("gemini-2.0-flash", model_provider="google_genai")
