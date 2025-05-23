@@ -92,17 +92,8 @@ Das System wurde modular mit spezialisierten Agenten entwickelt und wird über *
 
 ## 🗃️ Projektstruktur (Empfehlung)
 
-📁 projekt-root
-│
-├── chroma_db/ # Ungezipte Chroma-Datenbank
-├── daten/ # IR-PDF-Dokumente
-├── src/
-│ ├── forecast_agent.py # Vorhersage-Logik
-│ ├── rag_agent.py # RAG-Agent mit Chroma
-│ └── coordinator.py # Aufgabenverteilung
-├── .env # API-Schlüssel (nicht in Git)
-├── requirements.txt
-└── README.md
+![image](https://github.com/user-attachments/assets/b4bf6e93-7168-4fde-880d-dd2a87fedcda)
+
 
 
 ---
