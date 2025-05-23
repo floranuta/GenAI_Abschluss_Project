@@ -92,3 +92,42 @@ Das System wurde modular mit spezialisierten Agenten entwickelt und wird über *
 
 ## 🗃️ Projektstruktur (Empfehlung)
 
+📁 projekt-root
+│
+├── chroma_db/ # Ungezipte Chroma-Datenbank
+├── daten/ # IR-PDF-Dokumente
+├── src/
+│ ├── forecast_agent.py # Vorhersage-Logik
+│ ├── rag_agent.py # RAG-Agent mit Chroma
+│ └── coordinator.py # Aufgabenverteilung
+├── .env # API-Schlüssel (nicht in Git)
+├── requirements.txt
+└── README.md
+
+
+---
+
+## 📦 Abzugebende Ergebnisse
+
+- ✅ Gradio-App auf Hugging Face Spaces
+- ✅ Vollständiges GitHub-Repository
+- ✅ Visualisierte Finanzprognosen
+- ✅ Demo-Präsentation
+- ✅ Dokumentation (Architektur & Reflexion)
+
+---
+
+## ✅ Lernergebnisse
+
+- Multimodale Dokumentverarbeitung
+- Finanzdatenanalyse & Zeitreihenprognose
+- Integration von Echtzeitdatenquellen
+- Agentenbasiertes Design mit LangChain
+- Teamarbeit nach Scrum/Jira
+- Deployment mit Gradio & Hugging Face
+
+---
+
+## 📬 Kontakt
+
+Bei Fragen zur Umsetzung, Kooperation oder Nutzung: bitte wenden Sie sich an die Projektleitung oder öffnen Sie ein Issue im GitHub-Repository.
