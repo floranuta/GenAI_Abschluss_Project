@@ -13,7 +13,7 @@
 # pip install gradio langgraph
 
 # ✅ Install Forecasting and Visualization Tools
-!pip install -q pandas numpy matplotlib prophet statsmodels gradio chromadb sentence-transformers python-dotenv
+# pip install -q pandas numpy matplotlib prophet statsmodels gradio chromadb sentence-transformers python-dotenv
 
 # ✅ Import Libraries
 import os
