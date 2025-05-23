@@ -46,15 +46,9 @@ set_env_variable("GOOGLE_API_KEY", "Enter your GOOGLE_API_KEY: ")
 # ✅ Setup Gemini Model
 llm = ChatGoogleGenerativeAI(model="models/gemini-1.5-flash", google_api_key=os.getenv("GOOGLE_API_KEY"))
 
-# ✅ Upload and Load Chroma Vector Store
-uploaded = files.upload()
-for filename in uploaded.keys():
-    if filename.endswith(".zip"):
-        with zipfile.ZipFile(filename, 'r') as zip_ref:
-            zip_ref.extractall("/content/chroma_db")
-        print(f"✅ Extracted: {filename} to /content/chroma_db")
-
-persistent_client = chromadb.PersistentClient(path="/content/chroma_db")
+# ✅ Load Local Chroma DB from PC Path
+chroma_dir = r"C:\\Users\\Victoria\\OneDrive\\Desktop\\Projekt_2_Hussam\\GenerativeAI-II-Project\\chroma_new\\chroma"
+persistent_client = chromadb.PersistentClient(path=chroma_dir)
 vectorstore = Chroma(
     client=persistent_client,
     collection_name="financial_reports",
