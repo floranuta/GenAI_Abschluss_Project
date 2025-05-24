@@ -1,0 +1,38 @@
+# Core packages
+pandas
+numpy
+matplotlib
+prophet
+statsmodels
+gradio
+python-dotenv
+re
+getpass4
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-experimental
+langchain-google-genai
+
+# ChromaDB and embeddings
+chromadb
+sentence-transformers
+faiss-cpu
+
+# Google Generative AI Embeddings (if separated from langchain)
+google-generativeai
+
+# Multimodal and unstructured doc support
+unstructured[all-docs]
+ftfy
+PyMuPDF
+torch
+torchvision
+torchaudio
+
+# Optional: CLIP (used in multimodal agent)
+git+https://github.com/openai/CLIP.git
+
+# LangGraph agent framework
+langgraph
